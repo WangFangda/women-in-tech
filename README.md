@@ -18,7 +18,7 @@ I developed the whole back-end system with the following functionalities:
 
 ## What I used
 
-- Python for web clawing
+- Python for web crawling
 - MongoDB for data storage
 - Spring Boot for RESTful APIs
 - Google APIs for geographic information
